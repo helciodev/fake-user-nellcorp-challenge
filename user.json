@@ -3,7 +3,7 @@
     "basicInfo": {
       "firstName": "António",
       "lastName": "Miguel",
-      "profilePick": "https://raw.githubusercontent.com/helciodev/nellcorp-frontend-chalenge/features/src/lib/images/user.png",
+      "profilePic": "https://raw.githubusercontent.com/helciodev/nellcorp-frontend-chalenge/features/src/lib/images/user.png",
       "email": "antoniomiguel@email.com",
       "password": 123456789
     },
