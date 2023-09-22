@@ -7,14 +7,14 @@
       "email": "antoniomiguel@email.com",
       "password": 123456789
     },
-
+    "balance": 891094,
     "transactions": [
       {
         "id": 1,
         "type": "negative",
         "evolvingParty": "Loja do senhor Manuel",
         "amount": 1200,
-        "balanceAfter": 898800,
+        "balanceAfter": 891094,
         "date": "new Date(2023, 7, 4, 15, 45, 6)"
       },
       {
@@ -22,7 +22,7 @@
         "type": "positive",
         "evolvingParty": "we are inc",
         "amount": 1200,
-        " balanceAfter": 898800,
+        " balanceAfter": 892294,
         "date": "new Date(2023, 7, 7, 8, 45, 6)"
       },
       {
@@ -30,7 +30,7 @@
         "type": "negative",
         "evolvingParty": "kero",
         "amount": 23000,
-        "balanceAfter": 898800,
+        "balanceAfter": 891094,
         "date": "new Date(2023, 7, 8, 21, 31, 6)"
       },
       {
@@ -46,7 +46,7 @@
         "type": "negative",
         "evolvingParty": "Cantina do Dialó",
         "amount": 1000,
-        " balanceAfter": 898800,
+        " balanceAfter": 894094,
         "date": "new Date(2023, 7, 14, 18, 45, 6)"
       },
       {
@@ -54,7 +54,7 @@
         "type": "negative",
         "evolvingParty": "António Gika",
         "amount": 3200,
-        " balanceAfter": 898800,
+        " balanceAfter": 895094,
         "date": "new Date(2023, 7, 15, 19, 21, 10)"
       },
       {
@@ -63,7 +63,7 @@
         "evolvingParty": "Loja do senhor Manuel",
         "amount": 1250,
 
-        " balanceAfter": 898800,
+        " balanceAfter": 898294,
         "date": "new Date(2023, 7, 17, 12, 45, 11)"
       },
       {
@@ -71,13 +71,13 @@
         "type": "negative",
         "evolvingParty": "Loja do senhor Manuel",
         "amount": 456,
-        " balanceAfter": 898800,
+        " balanceAfter": 899544,
         "date": "new Date(2023, 7, 21, 10, 45, 3)"
       },
       {
         "id": 9,
         "type": "positive",
-        "evolvingParty": "Loja do senhor Manuel",
+        "evolvingParty": "Salário",
         "amount": 450000,
         " balanceAfter": 900000,
         "date": "new Date(2023, 4, 4, 14, 45, 45)"
