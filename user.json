@@ -1,0 +1,87 @@
+{
+  "user": {
+    "basicInfo": {
+      "firstName": "António",
+      "lastName": "Miguel",
+      "profilePick": "https://raw.githubusercontent.com/helciodev/nellcorp-frontend-chalenge/features/src/lib/images/user.png",
+      "email": "antoniomiguel@email.com",
+      "pasword": 123456789
+    },
+
+    "transactions": [
+      {
+        "id": 1,
+        "type": "negative",
+        "evolvingParty": "Loja do senhor Manuel",
+        "amount": 1200,
+        "balanceAfter": 898800,
+        "date": "new Date(2023, 7, 4, 15, 45, 6)"
+      },
+      {
+        "id": 2,
+        "type": "positive",
+        "evolvingParty": "we are inc",
+        "amount": 1200,
+        " balanceAfter": 898800,
+        "date": "new Date(2023, 7, 7, 8, 45, 6)"
+      },
+      {
+        "id": 3,
+        "type": "negative",
+        "evolvingParty": "kero",
+        "amount": 23000,
+        "balanceAfter": 898800,
+        "date": "new Date(2023, 7, 8, 21, 31, 6)"
+      },
+      {
+        "id": 4,
+        "type": "negative",
+        "evolvingParty": "Cantina do Dialó",
+        "amount": 3000,
+        " balanceAfter": 898800,
+        "date": "new Date(2023, 7, 10, 23, 45, 6)"
+      },
+      {
+        "id": 5,
+        "type": "negative",
+        "evolvingParty": "Cantina do Dialó",
+        "amount": 1000,
+        " balanceAfter": 898800,
+        "date": "new Date(2023, 7, 14, 18, 45, 6)"
+      },
+      {
+        "id": 6,
+        "type": "negative",
+        "evolvingParty": "António Gika",
+        "amount": 3200,
+        " balanceAfter": 898800,
+        "date": "new Date(2023, 7, 15, 19, 21, 10)"
+      },
+      {
+        "id": 7,
+        "type": "negative",
+        "evolvingParty": "Loja do senhor Manuel",
+        "amount": 1250,
+
+        " balanceAfter": 898800,
+        "date": "new Date(2023, 7, 17, 12, 45, 11)"
+      },
+      {
+        "id": 8,
+        "type": "negative",
+        "evolvingParty": "Loja do senhor Manuel",
+        "amount": 456,
+        " balanceAfter": 898800,
+        "date": "new Date(2023, 7, 21, 10, 45, 3)"
+      },
+      {
+        "id": 9,
+        "type": "positive",
+        "evolvingParty": "Loja do senhor Manuel",
+        "amount": 450000,
+        " balanceAfter": 900000,
+        "date": "new Date(2023, 4, 4, 14, 45, 45)"
+      }
+    ]
+  }
+}
