@@ -5,7 +5,7 @@
       "lastName": "Miguel",
       "profilePick": "https://raw.githubusercontent.com/helciodev/nellcorp-frontend-chalenge/features/src/lib/images/user.png",
       "email": "antoniomiguel@email.com",
-      "pasword": 123456789
+      "password": 123456789
     },
 
     "transactions": [
